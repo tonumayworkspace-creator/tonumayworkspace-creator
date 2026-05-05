@@ -1,108 +1,136 @@
-<h1 align="center">Hi 👋, I'm Tonumay Bhattacharya</h1>
-<h3 align="center">🚀 GenAI Engineer | LLM | RAG | AI Agents | Open to Work</h3>
+<h1 align="center">👋 Hi, I'm Tonumay Bhattacharya</h1>
+<h3 align="center">🚀 GenAI Engineer | LLM • RAG • AI Agents | FastAPI • Docker | Open to Work</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=LLM+Engineer;RAG+Systems;AI+Agents;FastAPI+%7C+Docker;Open+to+Full-time+Roles&center=true&width=600&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=GenAI+Engineer;LLM+Systems;RAG+Pipelines;AI+Agents;Production+AI+Systems;FastAPI+%7C+Docker&center=true&width=650&height=45">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=social" />
+  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=social" />
 </p>
 
 ---
 
 ## 🧠 Profile Summary
-GenAI Engineer building **production-ready LLM applications** with focus on **RAG pipelines, agentic workflows, and scalable APIs**. Experienced in taking systems from **data → model → deployment → evaluation**.
+
+```diff
++ GenAI Engineer building production-ready LLM systems
++ Specialized in RAG pipelines, AI agents & scalable APIs
++ Strong focus on performance, latency optimization & real-world deployment
+
+⚡ Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,mongodb,postgres,docker,tensorflow,pytorch,git,linux" /> </p>
+🚀 Production AI Systems
+<table> <tr> <td width="50%">
+🔥 RAG QA System
+Hybrid Retrieval (BM25 + FAISS)
+Chunking + caching → latency optimization
+FastAPI endpoints for real-time querying
+Designed for scalable document retrieval
+</td> <td width="50%">
+🤖 AI Agent (Autonomous System)
+Planner → Executor workflow
+Tool-based reasoning (search, DB, utilities)
+Guardrails + logging for reliability
+Multi-step decision-making system
+</td> </tr> <tr> <td width="50%">
+🧠 LLM Chatbot
+Context-aware + memory-enabled
+RAG grounded → reduced hallucination
+Prompt engineering + system design
+</td> <td width="50%">
+📊 ML Pipeline
+End-to-end ML system
+Training → evaluation → deployment
+API-based inference
+</td> </tr> </table>
+📊 GitHub Analytics
+<p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" /> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" /> </p> <p align="center"> <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" /> </p>
+🧩 Engineering Strengths
+
+✔ Production-ready AI architecture
+✔ LLM + RAG system design
+✔ API-first backend development
+✔ Performance optimization (latency, efficiency)
+
+🎯 What I Focus On
+Building real-world GenAI applications (not demos)
+Designing scalable AI systems with APIs
+Improving LLM reliability & response quality
+📫 Connect
+<p align="center"> <a href="https://www.linkedin.com/in/tonumay/"> <img src="https://img.shields.io/badge/LinkedIn-Tonumay-blue?style=for-the-badge&logo=linkedin" /> </a> <a href="mailto:tonumay.ds@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /> </a> </p>
+👀 Profile Views
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat" /> </p>
+
+Contribution Graph
+
 
 ---
 
-## ⚡ Core Stack
-**Languages:** Python, JavaScript  
-**GenAI:** LLMs, RAG, Prompt Engineering, AI Agents  
-**Frameworks:** LangChain, LlamaIndex  
-**ML/DL:** Scikit-learn, TensorFlow, PyTorch  
-**Backend:** FastAPI, Node.js  
-**Databases:** MongoDB, PostgreSQL, FAISS (Vector DB)  
-**Infra:** Docker, Git, Linux  
+# 🎯 What makes THIS top 1%
+
+### 1. **Immediate positioning (first 3 seconds)**
+- “GenAI Engineer + RAG + Agents + FastAPI”  
+👉 Recruiter instantly categorizes you
 
 ---
 
-## 🚀 Production-Focused Projects
-
-### 🔥 RAG QA System (LLM + FAISS + Hybrid Search)
-- Built **hybrid retrieval (BM25 + vector)** pipeline  
-- Implemented **chunking + caching → reduced latency**  
-- Exposed **FastAPI endpoints for real-time querying**  
-- Designed for **scalable document search**
+### 2. **Diff-style summary (high visual stop power)**
+- Green lines = attention magnet  
+👉 Increases read probability
 
 ---
 
-### 🤖 AI Agent (Tool-Using Autonomous System)
-- Multi-step reasoning with **planner-executor loop**  
-- Integrated tools (search, DB lookup, utilities)  
-- Added **guardrails + logging for reliability**
+### 3. **Table-based projects (huge upgrade)**
+- Looks like product dashboard  
+👉 Signals engineering maturity
 
 ---
 
-### 🧠 Context-Aware LLM Chatbot
-- Memory-enabled chatbot with **RAG grounding**  
-- Reduced hallucinations using **retrieval constraints**
+### 4. **Keyword density (ATS optimized)**
+Includes:
+- LLM  
+- RAG  
+- AI Agents  
+- FastAPI  
+- Production systems  
+
+👉 Improves search match score
 
 ---
 
-### 📊 End-to-End ML System
-- Full pipeline: preprocessing → training → deployment  
-- Exposed model via **API for real-world usage**
+### 5. **Clear specialization**
+Not “AI/ML generalist”  
+👉 You are clearly **GenAI Engineer**
 
 ---
 
-### 📄 AI Resume Analyzer
-- Semantic JD matching using **NLP embeddings**  
-- Automated candidate scoring & insights  
+# ⚠️ Final blunt truth
+
+This README is **top-tier presentation**, but:
+
+👉 If your repos don’t show:
+- APIs  
+- real data  
+- working systems  
+
+You’ll still get rejected.
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 If you want real outcome (recommended)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-</p>
+Next step:
+👉 **Upgrade your projects to match this level**
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
-</p>
+I can:
+- Convert each project into **production-grade**
+- Add **metrics (latency, accuracy)**
+- Create **interview-ready explanations**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
-</p>
+Just say:
+👉 **“Make my GitHub match this README”**
 
----
-
-## 🧩 Engineering Strengths
-- ⚙️ Production-ready AI system design  
-- 🧠 Strong LLM + RAG architecture understanding  
-- 🚀 API-first development mindset  
-- 📈 Performance optimization & evaluation  
-
----
-
-## 📫 Connect
-
-<p align="center">
-  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN/](https://www.linkedin.com/in/tonumay/)">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:tonumay.ds@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat" />
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+That’s what actually gets you offers.
