@@ -54,25 +54,12 @@ User → Frontend → FastAPI → LangChain/LangGraph → Retriever → LLM → 
 
 ## 🚀 Featured Projects
 
-<p align="center">
+- 🔥 [Self-Improving RAG](https://github.com/tonumayworkspace-creator/self-improving-rag)
+- 🤖 [Agentic AI Copilot](https://github.com/tonumayworkspace-creator/agentic-ai-copilot)
+- 🧠 [LLM Chatbot](https://github.com/tonumayworkspace-creator/llm-chatbot-production)
+- 📄 [Enterprise RAG](https://github.com/tonumayworkspace-creator/rag-knowledge-assistant)
 
-<a href="https://github.com/tonumayworkspace-creator/self-improving-rag">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tonumayworkspace-creator&repo=self-improving-rag&theme=radical&hide_border=true" />
-</a>
 
-<a href="https://github.com/tonumayworkspace-creator/agentic-ai-copilot">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tonumayworkspace-creator&repo=agentic-ai-copilot&theme=radical&hide_border=true" />
-</a>
-
-<a href="https://github.com/tonumayworkspace-creator/llm-chatbot-production">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tonumayworkspace-creator&repo=llm-chatbot-production&theme=radical&hide_border=true" />
-</a>
-
-<a href="https://github.com/tonumayworkspace-creator/rag-knowledge-assistant">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tonumayworkspace-creator&repo=rag-knowledge-assistant&theme=radical&hide_border=true" />
-</a>
-
-</p>
 
 ---
 
