@@ -1,136 +1,136 @@
 <h1 align="center">👋 Hi, I'm Tonumay Bhattacharya</h1>
-<h3 align="center">🚀 GenAI Engineer | LLM • RAG • AI Agents | FastAPI • Docker | Open to Work</h3>
+<h3 align="center">🚀 Generative AI Engineer | LLM • RAG • Agentic AI | FastAPI • Docker</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=GenAI+Engineer;LLM+Systems;RAG+Pipelines;AI+Agents;Production+AI+Systems;FastAPI+%7C+Docker&center=true&width=650&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Production+GenAI+Engineer;LLM+Systems+%7C+RAG+%7C+Agents;FastAPI+%7C+Docker+%7C+LangChain;Open+to+Full-time+Roles&center=true&width=650&height=45">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=social" />
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=social" />
+  <img src="https://komarev.com/ghpvc/?username=tonumayworkspace-creator&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://img.shields.io/github/followers/tonumayworkspace-creator?style=social" />
 </p>
+
+---
+
+## ⚡ Start Here (60-sec overview)
+
+- 🔥 Best Project → https://github.com/tonumayworkspace-creator/self-improving-rag
+- 🤖 Agent System → https://github.com/tonumayworkspace-creator/agentic-ai-copilot
+- 🧠 Chatbot → https://github.com/tonumayworkspace-creator/llm-chatbot-production
 
 ---
 
 ## 🧠 Profile Summary
 
 ```diff
-+ GenAI Engineer building production-ready LLM systems
-+ Specialized in RAG pipelines, AI agents & scalable APIs
-+ Strong focus on performance, latency optimization & real-world deployment
-
-⚡ Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,mongodb,postgres,docker,tensorflow,pytorch,git,linux" /> </p>
-🚀 Production AI Systems
-<table> <tr> <td width="50%">
-🔥 RAG QA System
-Hybrid Retrieval (BM25 + FAISS)
-Chunking + caching → latency optimization
-FastAPI endpoints for real-time querying
-Designed for scalable document retrieval
-</td> <td width="50%">
-🤖 AI Agent (Autonomous System)
-Planner → Executor workflow
-Tool-based reasoning (search, DB, utilities)
-Guardrails + logging for reliability
-Multi-step decision-making system
-</td> </tr> <tr> <td width="50%">
-🧠 LLM Chatbot
-Context-aware + memory-enabled
-RAG grounded → reduced hallucination
-Prompt engineering + system design
-</td> <td width="50%">
-📊 ML Pipeline
-End-to-end ML system
-Training → evaluation → deployment
-API-based inference
-</td> </tr> </table>
-📊 GitHub Analytics
-<p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" /> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" /> </p> <p align="center"> <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" /> </p>
-🧩 Engineering Strengths
-
-✔ Production-ready AI architecture
-✔ LLM + RAG system design
-✔ API-first backend development
-✔ Performance optimization (latency, efficiency)
-
-🎯 What I Focus On
-Building real-world GenAI applications (not demos)
-Designing scalable AI systems with APIs
-Improving LLM reliability & response quality
-📫 Connect
-<p align="center"> <a href="https://www.linkedin.com/in/tonumay/"> <img src="https://img.shields.io/badge/LinkedIn-Tonumay-blue?style=for-the-badge&logo=linkedin" /> </a> <a href="mailto:tonumay.ds@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /> </a> </p>
-👀 Profile Views
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat" /> </p>
-
-Contribution Graph
-
++ 1+ year experience building production-grade LLM systems
++ Improved model accuracy by +14% and reduced false positives by 15%
++ Increased RAG answer relevance by 30–40%
++ Focused on real-world GenAI systems with deployment & evaluation
+```
 
 ---
 
-# 🎯 What makes THIS top 1%
+## 🎥 Demo + 📊 Metrics + 🧠 Architecture
 
-### 1. **Immediate positioning (first 3 seconds)**
-- “GenAI Engineer + RAG + Agents + FastAPI”  
-👉 Recruiter instantly categorizes you
+### 🎥 Demo
+- ▶️ Add your Loom video link here
+- 🌐 Add deployed app (Streamlit / API)
 
----
+### 📊 Key Metrics
+<p align="center">
+  <img src="https://img.shields.io/badge/Accuracy-82%25-green" />
+  <img src="https://img.shields.io/badge/False%20Positives-↓15%25-orange" />
+  <img src="https://img.shields.io/badge/RAG%20Relevance-+40%25-blue" />
+  <img src="https://img.shields.io/badge/Retrieval%20Precision-+20%25-purple" />
+</p>
 
-### 2. **Diff-style summary (high visual stop power)**
-- Green lines = attention magnet  
-👉 Increases read probability
-
----
-
-### 3. **Table-based projects (huge upgrade)**
-- Looks like product dashboard  
-👉 Signals engineering maturity
-
----
-
-### 4. **Keyword density (ATS optimized)**
-Includes:
-- LLM  
-- RAG  
-- AI Agents  
-- FastAPI  
-- Production systems  
-
-👉 Improves search match score
+### 🧠 Architecture
+```text
+User → Frontend → FastAPI → LangChain/LangGraph → Retriever → LLM → Response → Evaluation
+```
 
 ---
 
-### 5. **Clear specialization**
-Not “AI/ML generalist”  
-👉 You are clearly **GenAI Engineer**
+## 🚀 Featured Projects
+
+<p align="center">
+
+<a href="https://github.com/tonumayworkspace-creator/self-improving-rag">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tonumayworkspace-creator&repo=self-improving-rag&theme=radical&hide_border=true" />
+</a>
+
+<a href="https://github.com/tonumayworkspace-creator/agentic-ai-copilot">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tonumayworkspace-creator&repo=agentic-ai-copilot&theme=radical&hide_border=true" />
+</a>
+
+<a href="https://github.com/tonumayworkspace-creator/llm-chatbot-production">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tonumayworkspace-creator&repo=llm-chatbot-production&theme=radical&hide_border=true" />
+</a>
+
+<a href="https://github.com/tonumayworkspace-creator/rag-knowledge-assistant">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tonumayworkspace-creator&repo=rag-knowledge-assistant&theme=radical&hide_border=true" />
+</a>
+
+</p>
 
 ---
 
-# ⚠️ Final blunt truth
+## 📊 GitHub Analytics
 
-This README is **top-tier presentation**, but:
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tonumayworkspace-creator&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=tonumayworkspace-creator&theme=radical&hide_border=true" />
+</p>
 
-👉 If your repos don’t show:
-- APIs  
-- real data  
-- working systems  
-
-You’ll still get rejected.
+<p align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonumayworkspace-creator&layout=compact&theme=radical&hide_border=true" />
+</p>
 
 ---
 
-# 🚀 If you want real outcome (recommended)
+## 🏆 Achievements & Activity
 
-Next step:
-👉 **Upgrade your projects to match this level**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tonumayworkspace-creator&theme=radical&no-frame=true&no-bg=true&row=1" />
+</p>
 
-I can:
-- Convert each project into **production-grade**
-- Add **metrics (latency, accuracy)**
-- Create **interview-ready explanations**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tonumayworkspace-creator&theme=react-dark&hide_border=true" />
+</p>
 
-Just say:
-👉 **“Make my GitHub match this README”**
+---
 
-That’s what actually gets you offers.
+## 💼 Experience
+
+- AI Intern – SkillInfytech (2026–Present)  
+- Data Science Intern – Codtech (+14% accuracy improvement)  
+- ML Intern – iStudio (75–82% model accuracy)  
+
+---
+
+## 🧩 Engineering Strengths
+
+✔ Production-ready AI systems  
+✔ LLM + RAG + Agents  
+✔ API-first backend  
+✔ Evaluation-driven development  
+
+---
+
+## 📫 Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tonumay/">
+    <img src="https://img.shields.io/badge/LinkedIn-Tonumay-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:tonumay.ds@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+![snake gif](https://github.com/tonumayworkspace-creator/tonumayworkspace-creator/blob/output/github-contribution-grid-snake.svg)
