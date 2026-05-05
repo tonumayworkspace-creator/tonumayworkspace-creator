@@ -146,16 +146,96 @@ User → Frontend → FastAPI → LangChain/LangGraph → Retriever → LLM → 
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Engineering Impact Dashboard
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tonumayworkspace-creator&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=tonumayworkspace-creator&theme=radical&hide_border=true" />
-</p>
+<table>
+<tr>
+<td width="50%">
 
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonumayworkspace-creator&layout=compact&theme=radical&hide_border=true" />
-</p>
+### 🧠 LLM & RAG Performance
+
+- 📈 RAG Answer Relevance: +30–40%  
+- 🎯 Retrieval Precision: +20%  
+- 🔍 Hybrid Search (BM25 + Vector)  
+- 🧪 Evaluation: Faithfulness + Grounding  
+
+</td>
+
+<td width="50%">
+
+### ⚡ ML Performance
+
+- 📊 Accuracy: 68% → 82% (+14%)  
+- 🚫 False Positives: ↓ 15%  
+- 🧠 Feature Engineering Improvements  
+- 📉 Metrics: F1 • AUC  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🚀 System Performance
+
+- ⚡ 50+ concurrent users  
+- ⏱️ Optimized latency  
+- 🔌 FastAPI + Docker  
+- 🔄 Real-time streaming  
+
+</td>
+
+<td width="50%">
+
+### 🤖 Agent Automation
+
+- 🔁 Manual effort ↓ ~60%  
+- 🧠 Multi-step reasoning agents  
+- 🔗 Tool integrations  
+- ⚙️ Planner → Executor workflow  
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧪 LLM Evaluation Approach
+
+- ✔ Faithfulness & Grounding (RAG validation)  
+- ✔ Retrieval Recall & Precision  
+- ✔ Latency monitoring (p50 / p95)  
+- ✔ Hallucination reduction  
+- ✔ Continuous evaluation (LangSmith)  
+
+---
+
+## 🏗️ System Design Snapshot
+
+```text
+User → Frontend → FastAPI → Orchestrator (LangChain / LangGraph)
+     → Retriever (FAISS + BM25) → LLM (GPT-4o / Llama-3)
+     → Response → Evaluation → Logs / Metrics
+```
+
+---
+
+## 💼 Experience
+
+- AI Intern – SkillInfytech (2026–Present)  
+- Data Science Intern – Codtech (+14% accuracy improvement)  
+- ML Intern – iStudio (75–82% model accuracy)  
+
+---
+
+## 🧩 Engineering Strengths
+
+✔ Production-ready AI systems  
+✔ LLM + RAG + Agents  
+✔ API-first backend  
+✔ Evaluation-driven development  
+
+---
 
 ---
 
