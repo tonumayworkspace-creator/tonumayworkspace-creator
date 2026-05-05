@@ -108,8 +108,17 @@
 ## 🎥 Demo + 📊 Metrics + 🧠 Architecture
 
 ### 🎥 Demo
-- ▶️ Add your Loom video link  
-- 🌐 Add deployed app  
+- 🌐 https://fraud-detection-real-time-system-gwktjgrwbmo64b5npp8sty.streamlit.app/
+- 🌐 https://ai-search-recommendation-system-zpn7katjw7yysahnvmxswn.streamlit.app/
+- 🌐 https://credit-risk-decision-system-zsprnoewr5ommc52bxs6cl.streamlit.app/
+- 🌐 https://enterprise-automation-platform-mfdvtirez8stjgldqg2sl7.streamlit.app/
+- 🌐 https://hr-analytics-attrition-chatbot-34foqrceukpgeg8z3ms8vm.streamlit.app/
+- 🌐 https://llm-chatbot-appuction-sr4pj9fpzsramhacgumx4y.streamlit.app/
+- 🌐 https://neon-explainable-diabetes-ai-qeii7h5wwvtuz7a9rctspu.streamlit.app/
+- 🌐 https://retail-sales-performance-dpvgczyepvjsrdjdoytnvu.streamlit.app/
+- 🌐 https://sales-revenue-forecasting-with-business-decision-insights-ne7m.streamlit.app/
+- 🌐 https://htjxdqlribwx2panzdwpzn.streamlit.app/
+- 🌐 https://blinkitapp-skfc23c3tfakjxtzscswk6.streamlit.app/
 
 ### 📊 Key Metrics
 
