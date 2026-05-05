@@ -14,9 +14,9 @@
 
 ## ⚡ Start Here (60-sec overview)
 
-- 🔥 Best Project → https://github.com/tonumayworkspace-creator/self-improving-rag
-- 🤖 Agent System → https://github.com/tonumayworkspace-creator/agentic-ai-copilot
-- 🧠 Chatbot → https://github.com/tonumayworkspace-creator/llm-chatbot-production
+- 🔥 Best Project → https://github.com/tonumayworkspace-creator/self-improving-rag  
+- 🤖 Agent System → https://github.com/tonumayworkspace-creator/agentic-ai-copilot  
+- 🧠 Chatbot → https://github.com/tonumayworkspace-creator/llm-chatbot-production  
 
 ---
 
@@ -28,7 +28,9 @@
 + Increased RAG answer relevance by 30–40%
 + Focused on real-world GenAI systems with deployment & evaluation
 ```
+
 ---
+
 ## 🧠 Core Expertise
 
 ```diff
@@ -90,7 +92,7 @@
   <img src="https://img.shields.io/badge/AWS-S3%20%7C%20EC2-orange" />
 </p>
 
-
+---
 
 ## 🧪 Evaluation & Optimization
 
@@ -99,16 +101,18 @@
 + Query Rewriting & Prompt Optimization
 + Hybrid Search (BM25 + Vector Retrieval)
 + Latency Optimization & Response Quality
----
+```
+
 ---
 
 ## 🎥 Demo + 📊 Metrics + 🧠 Architecture
 
 ### 🎥 Demo
-- ▶️ Add your Loom video link here
-- 🌐 Add deployed app (Streamlit / API)
+- ▶️ Add your Loom video link  
+- 🌐 Add deployed app  
 
 ### 📊 Key Metrics
+
 <p align="center">
   <img src="https://img.shields.io/badge/Accuracy-82%25-green" />
   <img src="https://img.shields.io/badge/False%20Positives-↓15%25-orange" />
@@ -117,6 +121,7 @@
 </p>
 
 ### 🧠 Architecture
+
 ```text
 User → Frontend → FastAPI → LangChain/LangGraph → Retriever → LLM → Response → Evaluation
 ```
@@ -125,12 +130,10 @@ User → Frontend → FastAPI → LangChain/LangGraph → Retriever → LLM → 
 
 ## 🚀 Featured Projects
 
-- 🔥 [Self-Improving RAG](https://github.com/tonumayworkspace-creator/self-improving-rag)
-- 🤖 [Agentic AI Copilot](https://github.com/tonumayworkspace-creator/agentic-ai-copilot)
-- 🧠 [LLM Chatbot](https://github.com/tonumayworkspace-creator/llm-chatbot-production)
-- 📄 [Enterprise RAG](https://github.com/tonumayworkspace-creator/rag-knowledge-assistant)
-
-
+- 🔥 [Self-Improving RAG](https://github.com/tonumayworkspace-creator/self-improving-rag)  
+- 🤖 [Agentic AI Copilot](https://github.com/tonumayworkspace-creator/agentic-ai-copilot)  
+- 🧠 [LLM Chatbot](https://github.com/tonumayworkspace-creator/llm-chatbot-production)  
+- 📄 [Enterprise RAG](https://github.com/tonumayworkspace-creator/rag-knowledge-assistant)  
 
 ---
 
