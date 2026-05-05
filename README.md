@@ -28,7 +28,78 @@
 + Increased RAG answer relevance by 30–40%
 + Focused on real-world GenAI systems with deployment & evaluation
 ```
+---
+## 🧠 Core Expertise
 
+```diff
++ Generative AI Systems (LLM • RAG • Agentic AI)
++ Production AI Pipelines (Design → Deploy → Evaluate)
++ Real-time AI APIs (FastAPI • Streaming • Multi-user)
++ Retrieval Optimization (Hybrid Search • Reranking • Chunking)
+```
+
+---
+
+## ⚡ GenAI & LLM Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GPT--4o-LLM-blue" />
+  <img src="https://img.shields.io/badge/Llama--3-LLM-blueviolet" />
+  <img src="https://img.shields.io/badge/Mistral-LLM-purple" />
+  <img src="https://img.shields.io/badge/RAG-System-green" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-Workflow-orange" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-Advanced-red" />
+</p>
+
+---
+
+## 🛠️ Frameworks & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,git,linux" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-Framework-blue" />
+  <img src="https://img.shields.io/badge/LangGraph-Orchestration-purple" />
+  <img src="https://img.shields.io/badge/LlamaIndex-RAG-green" />
+  <img src="https://img.shields.io/badge/HuggingFace-NLP-yellow" />
+  <img src="https://img.shields.io/badge/LangSmith-Evaluation-orange" />
+</p>
+
+---
+
+## 🧩 Data, ML & Vector Systems
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FAISS-VectorDB-blue" />
+  <img src="https://img.shields.io/badge/ChromaDB-VectorDB-purple" />
+  <img src="https://img.shields.io/badge/Pinecone-VectorDB-green" />
+  <img src="https://img.shields.io/badge/Scikit--learn-ML-orange" />
+  <img src="https://img.shields.io/badge/PyTorch-DeepLearning-red" />
+</p>
+
+---
+
+## 🔌 Backend & Deployment
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-Backend-green" />
+  <img src="https://img.shields.io/badge/REST%20APIs-Production-blue" />
+  <img src="https://img.shields.io/badge/Docker-Deployment-blueviolet" />
+  <img src="https://img.shields.io/badge/AWS-S3%20%7C%20EC2-orange" />
+</p>
+
+---
+
+## 🧪 Evaluation & Optimization
+
+```diff
++ LLM Evaluation (Faithfulness • Grounding • Relevance)
++ Query Rewriting & Prompt Optimization
++ Hybrid Search (BM25 + Vector Retrieval)
++ Latency Optimization & Response Quality
+---
 ---
 
 ## 🎥 Demo + 📊 Metrics + 🧠 Architecture
